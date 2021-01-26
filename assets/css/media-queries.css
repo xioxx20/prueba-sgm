@@ -1,0 +1,70 @@
+@media (min-width: 400px) and (max-width: 991.98px) {
+  #form-container {
+    width: 88%;
+    padding: 2em;
+  }
+  #form-container h1 {
+    margin-bottom: 1em;
+    font-size: 1.2rem;
+  }
+
+  .user-info-cont {
+    padding: 2em;
+    padding-bottom: 10em;
+    display: none;
+  }
+  .user-info-cont h2 {
+    font-size: 1rem;
+    margin-bottom: 0.5em;
+  }
+  .user-info-cont hr {
+    border-top: 1.5px solid #2C2E2D !important;
+  }
+  .user-info-cont #user-icon {
+    font-size: 3rem;
+  }
+  .user-info-cont i {
+    color: #2C2E2D;
+    margin-bottom: 0.1em;
+  }
+  .user-info-cont p {
+    margin-bottom: 0.2em;
+  }
+  .user-info-cont .info-adress {
+    padding: 1em;
+  }
+}
+@media (min-width: 991.99px) and (max-width: 1199.98px) {
+  #form-container {
+    width: 88%;
+    padding: 2em;
+  }
+  #form-container h1 {
+    margin-bottom: 1em;
+    font-size: 1.2rem;
+  }
+
+  .user-info-cont {
+    padding: 6em;
+    padding-bottom: 10em;
+    display: none;
+  }
+  .user-info-cont h2 {
+    font-size: 1rem;
+    margin-bottom: 0.5em;
+  }
+  .user-info-cont hr {
+    border-top: 1.5px solid #2C2E2D !important;
+  }
+  .user-info-cont #user-icon {
+    font-size: 2.5rem;
+  }
+  .user-info-cont i {
+    color: #2C2E2D;
+    margin-bottom: 0.1em;
+  }
+  .user-info-cont p {
+    margin-bottom: 0.2em;
+    font-size: 0.8rem;
+  }
+}

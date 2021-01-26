@@ -1,0 +1,84 @@
+// X-Small devices (portrait phones, less than 576px)
+@media (min-width: 400px) and (max-width: 991.98px) { 
+    #form-container{
+        width: 88%;
+        padding: 2em;
+        h1{
+            
+             margin-bottom: 1em;
+             font-size: 1.2rem;
+        }
+   }
+
+   .user-info-cont{
+        padding: 2em;
+        padding-bottom: 10em;
+        display: none;
+        
+        h2{
+            font-size: 1rem;
+            margin-bottom: 0.5em;
+        }
+
+        hr{
+            border-top: 1.5px solid #2C2E2D !important;
+        }
+
+        #user-icon{
+            font-size: 3rem;
+        }
+
+        i{color: #2C2E2D; margin-bottom: 0.1em;}
+
+        p{
+            margin-bottom: 0.2em;
+        }
+
+        .info-adress{
+            padding: 1em;
+        }
+
+    }
+
+}
+
+// Large devices (desktops, less than 1200px)
+@media (min-width: 991.99px) and (max-width: 1199.98px){ 
+    #form-container{
+        width: 88%;
+        padding: 2em;
+        h1{
+            
+             margin-bottom: 1em;
+             font-size: 1.2rem;
+        }
+   }
+   .user-info-cont{
+        padding: 6em;
+        padding-bottom: 10em;
+        display: none;
+        
+        h2{
+            font-size: 1rem;
+            margin-bottom: 0.5em;
+        }
+
+        hr{
+            border-top: 1.5px solid #2C2E2D !important;
+        }
+
+        #user-icon{
+            font-size: 2.5rem;
+        }
+
+        i{color: #2C2E2D; margin-bottom: 0.1em;}
+
+        p{
+            margin-bottom: 0.2em;
+            font-size: 0.8rem;
+        }
+
+    }
+}
+
+
